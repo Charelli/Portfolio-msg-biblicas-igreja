@@ -1,7 +1,7 @@
 # 📖 Mensagens App
 
 
-Este projeto é uma aplicação web simples para cadastro e busca de mensagens, com integração a uma API de Bíblia online. A aplicação permite que os usuários cadastrem mensagens, busquem por elas, filtrem por livros da Bíblia e visualizem detalhes de cada mensagem.Aplicação simples em **HTML, CSS e JavaScript** para **cadastro e busca de mensagens bíblicas**.
+Este projeto é uma aplicação web simples para cadastro e busca de mensagens. A aplicação permite que os usuários cadastrem mensagens, busquem por elas, filtrem por livros da Bíblia e visualizem detalhes de cada mensagem. Aplicação simples em **HTML, CSS e JavaScript** para **cadastro e busca de mensagens bíblicas**.
 ------------------------------------------------------------------------
 
 ## ✨ Funcionalidades
